@@ -6,3 +6,6 @@ not have to bother updating them)
 in English so plz just try to write evrything related in English to not have forgotten
 french even tho averification will be done ( btw the grading specification is written there is no guessing involv
 plz checkout the google drive )
+
+
+also if you want to dev always check mac adress of the gateway and the wifi canal it use 

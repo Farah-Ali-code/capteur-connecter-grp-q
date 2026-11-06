@@ -1,0 +1,16 @@
+# Cache et fichiers temporaires Godot
+.godot/
+.import/
+
+# Dossier de build / exportation
+build/
+export/
+
+# Fichiers de logs
+*.log
+
+# Si tu fais du C# (optionnel mais propre)
+.mono/
+*.csproj
+*.sln
+obj/
